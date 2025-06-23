@@ -1,0 +1,46 @@
+.editblog-container {
+    background-color: #fef3c7;
+    min-height: 100vh;
+    padding: 40px;
+    font-family: Arial, sans-serif;
+}
+
+.editblog-wrapper {
+    max-width: 800px;
+    margin: 40px auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+}
+
+.editblog-title {
+    font-size: 26px;
+    font-weight: bold;
+    color: #1f2937;
+    margin-bottom: 24px;
+}
+
+.editblog-input {
+    width: 100%;
+    padding: 14px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
+.editblog-button {
+    background-color: #10b981;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.editblog-button:hover {
+    background-color: #059669;
+}
